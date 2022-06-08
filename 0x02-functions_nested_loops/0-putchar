@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <unistd>
 #include <main.h>
+gcc main.c
+
 /*AUTH. MUNYORO MUFARO
 /* main - Prints _puthar followed by a new line. Return: Always 0*/
 
