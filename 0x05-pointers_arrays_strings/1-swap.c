@@ -1,12 +1,10 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include "main.h"
-
 /**
  * main - check the code for me.
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
 		int a;
