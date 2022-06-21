@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
-  * main - Function to print random number and states 
-  * if the number is greater than 0: is positive
-  * if the number is 0: is zero
-  * if the number is less than 0: is negative
-  * return is always 0
-  */
+* main - Function to print random number and states 
+* if the number is greater than 0: is positive
+* if the number is 0: is zero
+* if the number is less than 0: is negative
+* return is always 0
+*/
 int main(void)
 {
 	int n;
@@ -27,7 +26,7 @@ int main(void)
 	}
 
 	else 
-	{
+	{	
 		printf("%d is negative\n", n);
 	}
 
