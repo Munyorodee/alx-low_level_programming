@@ -1,5 +1,5 @@
 /*
-* Auth: Munyoro MD 
+*Auth: Munyoro MD 
 */
 
 #include <stdio.h>
