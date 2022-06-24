@@ -4,12 +4,11 @@
 
 int main(int argc, char *argv[])
 {
-		int a
-		int b
+		int c = 0;
 
 		if argc == 3
 		{		
-				int c = a*b
+				 c = atoi(argv[1] * atoi(argv[2]);
 				printf("%d\n", c);
 		}
 		else
