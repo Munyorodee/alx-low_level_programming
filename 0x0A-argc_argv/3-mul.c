@@ -2,6 +2,13 @@
 #include "main.h"
 #include <stdlib.c>
 
+/**
+ * main - multiplication of two number argument passed to program
+ * @argc: argument counter
+ * @argv: arguments to multiply
+ * Return: 0 on success, 1 if two numbers not given
+ */
+
 int main(int argc, char *argv[])
 {
 		int calc = 0;
