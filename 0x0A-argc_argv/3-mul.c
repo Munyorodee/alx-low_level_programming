@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-#include <stdlib.c>
+#include <stdlib.h>
 
 /**
  * main - multiplication of two number argument passed to program
