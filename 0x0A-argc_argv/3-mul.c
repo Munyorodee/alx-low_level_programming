@@ -4,11 +4,11 @@
 
 int main(int argc, char *argv[])
 {
-		int c = 0;
+		int calc = 0;
 
-		if argc == 3
+		if (argc == 3)
 		{		
-				 c = atoi(argv[1] * atoi(argv[2]);
+				 calc = atoi(argv[1] * atoi(argv[2]);
 				printf("%d\n", c);
 		}
 		else
